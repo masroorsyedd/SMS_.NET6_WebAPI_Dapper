@@ -1,0 +1,17 @@
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.csproj.AssemblyReference.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.AssemblyInfoInputs.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.AssemblyInfo.cs
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.csproj.CoreCompileInputs.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\bin\Debug\net6.0\TechSol.StudentManagementSystem.DAL.deps.json
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\bin\Debug\net6.0\TechSol.StudentManagementSystem.DAL.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\bin\Debug\net6.0\TechSol.StudentManagementSystem.DAL.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\bin\Debug\net6.0\TechSol.StudentManagementSystem.Models.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\bin\Debug\net6.0\TechSol.StudentManagementSystem.Utility.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\bin\Debug\net6.0\TechSol.StudentManagementSystem.Models.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\bin\Debug\net6.0\TechSol.StudentManagementSystem.Utility.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.csproj.CopyComplete
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\refint\TechSol.StudentManagementSystem.DAL.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\TechSol.StudentManagementSystem.DAL.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.DAL\obj\Debug\net6.0\ref\TechSol.StudentManagementSystem.DAL.dll

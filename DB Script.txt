@@ -1,0 +1,31 @@
+USE [WebAPI_Students]
+GO
+
+/****** Object:  Table [dbo].[students]    Script Date: 4/27/2023 3:17:41 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[students](
+	[StudentId] [int] IDENTITY(1,1) NOT NULL,
+	[StudentName] [varchar](50) NULL,
+	[Email] [varchar](50) NULL,
+	[Gender] [varchar](10) NULL,
+	[Active] [bit] NOT NULL,
+	[CreatedOn] [datetime] NULL,
+	[CreatedBy] [varchar](50) NULL,
+	[LastModifiedOn] [datetime] NULL,
+	[LastModifiedBy] [varchar](50) NULL,
+ CONSTRAINT [PK_students] PRIMARY KEY CLUSTERED 
+(
+	[StudentId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[students] ADD  CONSTRAINT [DF_students_Active]  DEFAULT ((1)) FOR [Active]
+GO
+
+

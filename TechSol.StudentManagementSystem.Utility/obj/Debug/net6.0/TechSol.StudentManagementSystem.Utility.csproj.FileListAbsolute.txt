@@ -1,0 +1,12 @@
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\TechSol.StudentManagementSystem.Utility.csproj.AssemblyReference.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\TechSol.StudentManagementSystem.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\TechSol.StudentManagementSystem.Utility.AssemblyInfoInputs.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\TechSol.StudentManagementSystem.Utility.AssemblyInfo.cs
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\TechSol.StudentManagementSystem.Utility.csproj.CoreCompileInputs.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\bin\Debug\net6.0\TechSol.StudentManagementSystem.Utility.deps.json
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\bin\Debug\net6.0\TechSol.StudentManagementSystem.Utility.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\bin\Debug\net6.0\TechSol.StudentManagementSystem.Utility.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\TechSol.StudentManagementSystem.Utility.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\refint\TechSol.StudentManagementSystem.Utility.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\TechSol.StudentManagementSystem.Utility.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Utility\obj\Debug\net6.0\ref\TechSol.StudentManagementSystem.Utility.dll

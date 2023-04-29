@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>TechSol.StudentManagementSystem.BL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TechSol.StudentManagementSystem.DAL\TechSol.StudentManagementSystem.DAL.csproj" />
+    <ProjectReference Include="..\TechSol.StudentManagementSystem.Models\TechSol.StudentManagementSystem.Models.csproj" />
+    <ProjectReference Include="..\TechSol.StudentManagementSystem.Utility\TechSol.StudentManagementSystem.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

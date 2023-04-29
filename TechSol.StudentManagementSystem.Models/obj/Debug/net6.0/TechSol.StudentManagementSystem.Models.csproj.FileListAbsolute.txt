@@ -1,0 +1,15 @@
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\bin\Debug\net6.0\TechSol.StudentManagementSystem.Models.deps.json
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\bin\Debug\net6.0\TechSol.StudentManagementSystem.Models.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\bin\Debug\net6.0\TechSol.StudentManagementSystem.Models.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\bin\Debug\net6.0\TechSol.StudentManagementSystem.Utility.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\bin\Debug\net6.0\TechSol.StudentManagementSystem.Utility.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.csproj.AssemblyReference.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.AssemblyInfoInputs.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.AssemblyInfo.cs
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.csproj.CoreCompileInputs.cache
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.csproj.CopyComplete
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\refint\TechSol.StudentManagementSystem.Models.dll
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\TechSol.StudentManagementSystem.Models.pdb
+F:\My Apps\WebAPI_.NET6_StudentManagementSystem\TechSol.StudentManagementSystem.Models\obj\Debug\net6.0\ref\TechSol.StudentManagementSystem.Models.dll

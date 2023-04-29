@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "se1oDPlO42armbV4LvAB4USSzuqUScxlyrF4v5FCXC4=",
+  "Source": "TechSol.StudentManagementSystem.API",
+  "BasePath": "_content/TechSol.StudentManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
